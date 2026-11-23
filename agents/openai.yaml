@@ -1,0 +1,3 @@
+interface:
+  display_name: "国外网站设计案例采集"
+  short_description: "采集国外设计灵感库案例，核对来源与链接，去重导出 CSV 和 JSON"
